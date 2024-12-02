@@ -1,0 +1,8 @@
+* Advent of Code 2024
+This is my attempt at doing Advent of Code 2024 with OCaml.
+I've never used the language.
+
+/"You're doing x wrong!"/
+
+DM me or just tweet at me here: https://x.com/lawrencelogoh
+
